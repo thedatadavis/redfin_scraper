@@ -1,0 +1,302 @@
+{
+	"amenities": {
+		"Bathroom Information": [{
+				"# of Baths (1/2)": " 1"
+			},
+			{
+				"# of Baths (Full)": " 2"
+			}
+		],
+		"Building Information": [{
+				"Building Information_other": "Faces East"
+			},
+			{
+				"Building Stories": " 3"
+			},
+			{
+				"Siding": " Stucco"
+			},
+			{
+				"Roof": " Other"
+			},
+			{
+				"Foundation": " Slab"
+			}
+		],
+		"Equipment": [{
+				"Appliances": " Dryer Included, Electric Dryer Connection, Refrigerator, Washer Included"
+			},
+			{
+				"Equipment_other": "Double Oven, Electric Oven"
+			},
+			{
+				"Equipment_other": "Electric Cooktop, Grill"
+			}
+		],
+		"Financial Information": [{
+			"Financing Available": " Cash Sale, Investor"
+		}],
+		"Fireplace Information": [{
+			"# of Fireplaces": " 1"
+		}],
+		"Heating & Cooling Information": [{
+				"Heating System": " Central Electric"
+			},
+			{
+				"Cooling System": " Central Electric"
+			}
+		],
+		"Homeowners Association Information": [{
+				"Homeowners Association Information_other": "Has Other Fee(s)"
+			},
+			{
+				"Other Fee Amount": " $250"
+			},
+			{
+				"Other Mandatory Fee(s)": " Transfer Fee"
+			},
+			{
+				"Homeowners Association Information_other": "Has Maintenance Fee"
+			},
+			{
+				"Maintenance Fee Amount": " $533"
+			},
+			{
+				"Maintenance Fee Pay Schedule": " Monthly"
+			},
+			{
+				"Maintnenace Fee Includes": " Exterior Building, Grounds, Insurance, Limited Access Gates, Water and Sewer"
+			}
+		],
+		"Interior Features": [{
+			"Room Count": " 5"
+		}],
+		"Laundry Information": [{
+			"Laundry Location": " Utility Room in House"
+		}],
+		"Listing Information": [{
+			"Listing Information_other": "Exclusive Right to Sell/Lease"
+		}],
+		"Listing Price Information": [{
+			"Original List Price": " 210000.00"
+		}],
+		"Location Information": [{
+				"Area": " Central"
+			},
+			{
+				"Directions": " Lovett Square is Located Between Bagby and Brazos, Tuam and Anita Streets just off the Hwy 59 Spur"
+			},
+			{
+				"MLS Map Page and Grid": " 493T"
+			}
+		],
+		"Lot Information": [{
+				"Access": " Automatic Gate"
+			},
+			{
+				"Section Num": " 0"
+			},
+			{
+				"Legal Lot Description": " TH 10 BLDG A .03194 INT COMMON LAND & ELE LOVETTE SQUARE CON"
+			},
+			{
+				"Street Surface": " Concrete"
+			}
+		],
+		"Miscellaneous Information": [{
+			"Miscellaneous Information_other": "Residential Condominium"
+		}],
+		"Other Exterior Features": [{
+			"Exterior": " Patio/Deck, Rooftop Deck"
+		}],
+		"Other Interior Features": [{
+				"Other Interior Features_other": "Ceiling Fans, Digital Program Thermostat"
+			},
+			{
+				"Other Interior Features_other": "Drapes/Curtains/Window Cover, High Ceiling"
+			},
+			{
+				"Countertops": " Granite"
+			},
+			{
+				"Floors": " Tile"
+			}
+		],
+		"Parking & Garage": [{
+				"Garage": " Attached"
+			},
+			{
+				"# of Garage Spaces": " 2"
+			},
+			{
+				"Parking": " Assigned Parking, Auto Garage Door Opener, Controlled Entrance, Driveway Gate, Garage Parking"
+			}
+		],
+		"Property Information": [{
+				"Property Information_other": "Has Management Company"
+			},
+			{
+				"Management Company": " JDH Management"
+			},
+			{
+				"Property Information_other": "Condo"
+			},
+			{
+				"Unit Level": " Levels 2, 3, and 4"
+			},
+			{
+				"Unit Location": " Courtyard"
+			},
+			{
+				"Exemptions": " None"
+			},
+			{
+				"Property Information_other": "Full Ownership"
+			}
+		],
+		"Room 1 Information": [{
+				"Dimensions": " 20 x 19"
+			},
+			{
+				"Room Type": " Living Room"
+			},
+			{
+				"Location": " 2nd Floor"
+			},
+			{
+				"Features": " Living/Dining Combo"
+			}
+		],
+		"Room 2 Information": [{
+				"Dimensions": " 20 x 12"
+			},
+			{
+				"Room Type": " Master Bedroom"
+			},
+			{
+				"Location": " 3rd Floor"
+			}
+		],
+		"Room 3 Information": [{
+				"Dimensions": " 12 x 12"
+			},
+			{
+				"Room Type": " Bedroom"
+			},
+			{
+				"Location": " 3rd Floor"
+			}
+		],
+		"Room 4 Information": [{
+				"Dimensions": " 20 x 12"
+			},
+			{
+				"Room Type": " Extra Room"
+			},
+			{
+				"Location": " 4th Floor"
+			}
+		],
+		"Room 5 Information": [{
+				"Dimensions": " 5 x 3"
+			},
+			{
+				"Room Type": " Utility"
+			},
+			{
+				"Location": " 3rd Floor"
+			}
+		],
+		"School Information": [{
+				"School District": " Houston"
+			},
+			{
+				"School Elementary": " GREGORY-LINCOLN ELEMENTARY SCHOOL"
+			},
+			{
+				"School Middle": " GREGORY-LINCOLN MIDDLE SCHOOL"
+			},
+			{
+				"School High": " LAMAR HIGH SCHOOL (HOUSTON)"
+			}
+		],
+		"Tax Information": [{
+				"Tax ID #": " 114-522-001-0010"
+			},
+			{
+				"Tax Amount": " $5,553"
+			},
+			{
+				"Tax Year": " 2017"
+			},
+			{
+				"Total Tax Rate (%)": " 2.6444"
+			}
+		],
+		"Water & Sewer Information": [{
+			"Water & Sewer Information_other": "Public Sewer, Public Water"
+		}]
+	},
+	"key_details": {
+		"Built": "1979",
+		"Community": "Lovett Square Condo",
+		"County": "Harris",
+		"HOA Dues": "$533/month",
+		"Lot Size": "1.43 acres",
+		"MLS#": "26633273",
+		"Property Type": "Townhouse/Condo, Condominium",
+		"Stories": "3",
+		"Style": "Contemporary/Modern"
+	},
+	"photos": ["https://ssl.cdn-redfin.com/photo/104/mbpaddedwide/273/genMid.26633273_1_2.jpg",
+		"https://ssl.cdn-redfin.com/photo/104/mbpaddedwide/273/genMid.26633273_2_2.jpg",
+		"https://ssl.cdn-redfin.com/photo/104/mbpaddedwide/273/genMid.26633273_3_2.jpg",
+		"https://ssl.cdn-redfin.com/photo/104/mbpaddedwide/273/genMid.26633273_4_2.jpg",
+		"https://ssl.cdn-redfin.com/photo/104/mbpaddedwide/273/genMid.26633273_5_1.jpg",
+		"https://ssl.cdn-redfin.com/photo/104/mbpaddedwide/273/genMid.26633273_6_1.jpg",
+		"https://ssl.cdn-redfin.com/photo/104/mbpaddedwide/273/genMid.26633273_7_1.jpg",
+		"https://ssl.cdn-redfin.com/photo/104/mbpaddedwide/273/genMid.26633273_8_1.jpg",
+		"https://ssl.cdn-redfin.com/photo/104/mbpaddedwide/273/genMid.26633273_9_1.jpg",
+		"https://ssl.cdn-redfin.com/photo/104/mbpaddedwide/273/genMid.26633273_10_1.jpg",
+		"https://ssl.cdn-redfin.com/photo/104/mbpaddedwide/273/genMid.26633273_11_1.jpg",
+		"https://ssl.cdn-redfin.com/photo/104/mbpaddedwide/273/genMid.26633273_12_1.jpg",
+		"https://ssl.cdn-redfin.com/photo/104/mbpaddedwide/273/genMid.26633273_13_1.jpg",
+		"https://ssl.cdn-redfin.com/photo/104/mbpaddedwide/273/genMid.26633273_14_1.jpg",
+		"https://ssl.cdn-redfin.com/photo/104/mbpaddedwide/273/genMid.26633273_15_1.jpg",
+		"https://ssl.cdn-redfin.com/photo/104/mbpaddedwide/273/genMid.26633273_2.jpg"
+	],
+	"recent_history": [{
+			"appreciation": "—",
+			"date": "Aug 17, 2018",
+			"event": "Listed (Active)",
+			"price": "$210,000",
+			"source": "HARMLS #26633273"
+		},
+		{
+			"appreciation": "—",
+			"date": "Jan 30, 2018",
+			"event": "Delisted (Withdrawn)",
+			"price": "—",
+			"source": "HARMLS #29225280"
+		},
+		{
+			"appreciation": "—",
+			"date": "Dec 19, 2017",
+			"event": "Price Changed",
+			"price": "*",
+			"source": "HARMLS #29225280"
+		}
+	],
+	"summary": {
+		"address": "403 Anita St #10 ",
+		"baths": 2.5,
+		"beds": 2.0,
+		"city": "Houston, TX 77006",
+		"description": "INVESTORS - AS-IS/WHERE IS. Lovely Gated Community of Award Winning Townhomes designed by Wm. Cannady; Lovett Square is Urban Living in the Heart of Midtown. This complex DID NOT FLOOD; however, there was some Water Penetration from Hurricane Harvey. The HOA is currently working on Exterior Repairs to the Units and some Windows are being replaced to make the units water-tight. Great Opportunity to buy a Fixer-Up Unit, as some repairs are still needed. Remodeled Master Bath &  Kitchen w/ Granite  &  Small Wine Room. Crown Molding/Shutters/Zoned Air. Top Floor Flex Room w/ Nice Wood Floors f/Game room/Den/Office/3rd Bedroom w/ Access to Large Private Deck  &  Rooftop/Downtown Views. 2 Reserved Cvrd Parking Spaces in Controlled Access Garage. This unit is the largest floor plan with 1930 sq ft, 2 Bed-@ 1/2 Baths  &  Generous Room Sizes. Listing Agent Related to Seller  &  May Have an Ownership Interest.  Continue reading",
+		"link": "https://www.redfin.com/TX/Houston/403-Anita-St-77006/unit-10/home/140625410",
+		"price": 210000.0,
+		"price_display": "$210,000",
+		"price_per_sqft": 108.80829015544042,
+		"sqft": 1930.0
+	}
+}

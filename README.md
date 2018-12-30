@@ -10,5 +10,5 @@ Scrapes listing data and photos from Redfin
 - Joins data into single dictionary
 
 ### TODO
-[ ] Refactor into modules  
-[ ] Create cloud function to run as microservice
+- [ ] Refactor into modules
+- [ ] Create cloud function to run as microservice

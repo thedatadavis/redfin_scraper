@@ -8,3 +8,7 @@ Scrapes listing data and photos from Redfin
 - Uses BeautifulSoup to parse summary data (bed/bath count, etc.), key details (lot size, year built), amenities, and recent price history
 - Returns to Selenium to loop through photos because only the lead image shows src in the html
 - Joins data into single dictionary
+
+### TODO
+[ ] Refactor into modules
+[ ] Create cloud function to run as microservice
